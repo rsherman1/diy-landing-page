@@ -13,6 +13,14 @@ p {
     color: #0f1b1f;
 }
 
+nav{
+
+    display:flex;
+    justify-content: center;
+    
+  }
+
 .button {
     
 }
+
