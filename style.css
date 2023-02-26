@@ -8,6 +8,7 @@ h1{
     color: #b02e0c;
     display:flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 p {
@@ -15,13 +16,15 @@ p {
     color: #b02e0c;
     display:flex;
     justify-content: center;
+    margin: 50px;
 }
 
 
 article{
 
     background: #8eb1c7;
-    border-radius: 15px;;
+    border-radius: 15px;
+    margin: 20px;
   
   }
 
