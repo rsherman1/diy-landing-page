@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: darkgrey;
 
 }
 
@@ -22,7 +22,7 @@ p {
 
 article{
 
-    background: lightgrey;
+    background: black;
     border-radius: 15px;
     margin: 20px;
   
