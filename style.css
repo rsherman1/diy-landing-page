@@ -1,18 +1,18 @@
 body {
-    background: darkgrey;
+    background: white;
 
 }
 
 h1{
-    font-family: 'Courier New', Courier, monospace;
-    color: #17d340;
+    font-family: 'Helvetica Neue';
+    color: ;
     display:flex;
     justify-content: center;
     margin-top: 20px;
 }
 
 p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Helvetica Neue';
     color: #17d340;
     display:flex;
     justify-content: center;
