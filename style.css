@@ -58,9 +58,8 @@ a {
     cursor: pointer;
     display: inline-block;
    
-    font-family: noto sans;
-    font-size: 15px;
-    font-weight: 400;
+    font-family: 'Helvetica Neue';
+    font-weight: 400px;
     color: #ffffff;
     text-align: center;
     line-height: 2.5;
